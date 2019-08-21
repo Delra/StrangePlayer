@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>menu.qml</file>
+        <file>login.qml</file>
+        <file>rules.qml</file>
+        <file>RulesModel.qml</file>
+        <file>character.qml</file>
+    </qresource>
+</RCC>
